@@ -1,4 +1,4 @@
-// DEVELOPED BY >> Chrish_1337 👽️
+// DEVELOPED BY >> HackerChrish89 👽️
 
 #include <stdio.h>
 #include <sys/socket.h>
