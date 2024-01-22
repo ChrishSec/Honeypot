@@ -1,6 +1,6 @@
 # Honeypot
 
-Honeypot is a simple C program that can be used to create a honeypot, which is a security mechanism designed to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems. The program listens on a specified port and logs any incoming connections, but instead of serving the client, it sends a custom message.
+Honeypot is a simple C program that blocks intruders, logs connections, and sends a custom message – offering no service to them.
 
 ## Requirements
 
