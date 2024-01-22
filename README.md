@@ -11,7 +11,7 @@ Honeypot is a simple C program that can be used to create a honeypot, which is a
 
 1. Clone the repository:
 
-```git clone https://github.com/chrish-sec/honeypot.git```
+```git clone https://github.com/ChrishSec/honeypot.git```
 
 2. Compile the program:
 
