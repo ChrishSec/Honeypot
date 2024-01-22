@@ -1,6 +1,6 @@
 # Honeypot
 
-Honeypot is a simple C program that blocks intruders, logs connections, and sends a custom message – offering no service to them.
+Honeypot, a straightforward C program, logs connections and sends a custom message, offering no service to unwanted visitors.
 
 ## Requirements
 
