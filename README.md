@@ -29,5 +29,5 @@ This program is for educational and research purposes only. Use it at your own r
 
 ## Credits
 
-This program was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the [author](https://t.me/ChrishSec).
+This program was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
 
