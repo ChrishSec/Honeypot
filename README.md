@@ -4,12 +4,12 @@ Try the new version of [Honeypot](https://github.com/ChrishSec/Honeypot) over [C
 
 Honeypot, a straightforward C program, logs connections and sends a custom message, offering no service to unwanted visitors.
 
-## Requirements
+### Requirements
 
 - C compiler
 - Unix-like operating system (tested on Ubuntu 20.04)
 
-## Usage
+### Usage
 
 1. Clone the repository:
 
@@ -33,6 +33,6 @@ This program is for educational and research purposes only. Use it at your own r
 
 This script is released under the GNU General Public License v3.0. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-## Credits
+## Author
 
 This script was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
