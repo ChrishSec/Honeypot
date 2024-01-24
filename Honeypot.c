@@ -1,5 +1,9 @@
 // DEVELOPED BY >> ChrishSec
 
+// Website: https://ChrishSec.com
+// GitHub: https://github.com/ChrishSec
+// Twitter: https://twitter.com/ChrishSec
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <unistd.h>
