@@ -1,6 +1,6 @@
 Try the new version of [Honeypot](https://github.com/ChrishSec/Honeypot) over [CaptureHoney](https://github.com/ChrishSec/CaptureHoney) for a better experience.
 
-# Honeypot
+## Honeypot
 
 Honeypot, a straightforward C program, logs connections and sends a custom message, offering no service to unwanted visitors.
 
