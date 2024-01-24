@@ -31,7 +31,7 @@ This program is for educational and research purposes only. Use it at your own r
 
 ## License
 
-This script is released under the GNU General Public License v3.0. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+This program is released under the GNU General Public License v3.0. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## Author
 
