@@ -1,4 +1,4 @@
-Try the new version of [Honypot](https://github.com/ChrishSec/honypot) over [CaptureHoney](https://github.com/ChrishSec/CaptureHoney) for a better experience.
+Try the new version of [Honeypot](https://github.com/ChrishSec/Honeypot) over [CaptureHoney](https://github.com/ChrishSec/CaptureHoney) for a better experience.
 
 # Honeypot
 
