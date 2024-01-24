@@ -35,4 +35,4 @@ This script is released under the GNU General Public License v3.0. Everyone is p
 
 ## Credits
 
-This program was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
+This program was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [![Telegram Logo](https://telegram.org/img/favicon.ico)](https://t.me/ChrishSec).
