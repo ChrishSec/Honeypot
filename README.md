@@ -2,7 +2,7 @@ Try the new version of [Honeypot](https://github.com/ChrishSec/Honeypot) over [C
 
 ## Honeypot
 
-Honeypot, a straightforward C program, logs connections and sends a custom message, offering no service to unwanted visitors.
+Honeypot, a straightforward C program, logs connections and sends a custom message, offering no service to attackers.
 
 ### Requirements
 
